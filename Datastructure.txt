@@ -1,0 +1,39 @@
+Fraud Detection and Analysis for Insurance Claim using Machine Learning
+
+IEEE Conference on Machine Learning,Issue Date:16.May.2022
+
+Machine Learning Algorithm, PySpark, Fraud Case detection, classifications
+
+
+Fraud_Detection_and_Analysis_for_Insurance_Claim
+
+
+fraud_detection_and_analysis_for_insurance_claim
+
+
+insurance_claim_status
+
+Account_Code
+DATE_OF_INTIMATION
+DATE_OF_ACCIDENT
+CLAIM_Real
+AGE
+TYPE
+DRIVING_LICENSE_ISSUE
+BODY_TYPE
+MAKE
+MODEL
+YEAR
+CHASIS_Real
+REG
+SUM_INSURED
+POLICY_NO
+POLICY_START
+POLICY_END
+INTIMATED_AMOUNT
+INTIMATED_SF
+EXECUTIVE
+PRODUCT
+POLICYTYPE
+NATIONALITY
+PREDICTION
